@@ -61,3 +61,52 @@ body {
 .phone-link:hover,
 .phone-link:focus {
   color: var(--accent-color);
+}
+.titel {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+background-color: #2F303A;
+}
+.titel3 {
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.advantages {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.titel2 {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.position {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.19
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.titel3-name {
+ font-weight: 500;
+font-size: 16px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+color: #212121;
+}
