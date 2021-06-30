@@ -134,7 +134,7 @@ letter-spacing: 0.03em;
 color: #757575;
 }
 .titel3-name {
- font-weight: 500;
+font-weight: 500;
 font-size: 16px;
 line-height: 1.19;
 letter-spacing: 0.03em;
@@ -208,17 +208,19 @@ font-size: 16px;
 line-height: 1.62;
 text-align: center;
 letter-spacing: 0.03em;
-color: #FFFFFF;
+color: #212121;
+cursor: pointer;
+font-family: inherit;
 }
 .modal-button-portfolio:hover,
 .modal-button-portfolio:focus {
-  color: var(--titel-hero-button);
-  background: var(--accent-color);
+color: var(--titel-hero-button);
+background: var(--accent-color);
 }
 .list-portfolio {
 font-weight: 700;
 font-size: 18px;
-line-height: 2x;
+line-height: 2;
 letter-spacing: 0.06em;
 color: #212121;
 } 
